@@ -85,7 +85,7 @@ Finally, add config to package.json:
   }
 ```
 
-##Acknowlegments
+## Acknowlegments
 
 Based on : 
 
